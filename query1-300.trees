@@ -1,0 +1,1499 @@
+美女	图
+N	N
+NMOD	ROOT
+2	0
+
+恋人	李瑞镇
+N	N
+SEM	ROOT
+2	0
+
+黑色	星期天
+N	N
+NMOD	ROOT
+2	0
+
+摩托车	网址
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+模拟	开车
+V	V
+VC	ROOT
+2	0
+
+好莱坞	潜规则
+N	N
+SEM	ROOT
+2	0
+
+应变式	传感器
+J	N
+NMOD	ROOT
+2	0
+
+佛教	音乐
+N	N
+NMOD	ROOT
+2	0
+
+环保	论文
+N	N
+SEM	ROOT
+2	0
+
+限制级	写真
+J	N
+NMOD	ROOT
+2	0
+
+毛线	常识
+N	N
+SEM	ROOT
+2	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+宰杀	女人
+V	N
+ROOT	OBJ
+0	1
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	贴图
+N	N
+NMOD	ROOT
+2	0
+
+入党	自传
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+佛教	音乐
+N	N
+NMOD	ROOT
+2	0
+
+好莱坞	潜规则
+N	N
+SEM	ROOT
+2	0
+
+山东	金锣
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+在线	翻译
+J	N
+NMOD	ROOT
+2	0
+
+帅哥	打枪
+N	V
+SUB	ROOT
+2	0
+
+召妓	指南
+V	N
+ROOT	OBJ
+0	1
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+美丽	女人
+J	N
+NMOD	ROOT
+2	0
+
+成人	贴图
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+减肥	方法
+V	N
+ROOT	OBJ
+0	1
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+卫星	地图
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影图
+N	N
+NMOD	ROOT
+2	0
+
+邓小平	纪念馆
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+拉拉	俱乐部
+N	N
+NMOD	ROOT
+1	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+好莱坞	潜规则
+N	N
+SEM	ROOT
+2	0
+
+祼体	摄影图
+N	N
+NMOD	ROOT
+2	0
+
+手机	大全
+N	N
+SEM	ROOT
+2	0
+
+校对	审读
+V	V
+SEM	ROOT
+2	0
+
+成人	图片
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+透视	装
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+占有	婶婶
+V	N
+ROOT	OBJ
+0	1
+
+拉拉	俱乐部
+N	N
+NMOD	ROOT
+2	0
+
+小	电影
+J	N
+NMOD	ROOT
+2	0
+
+孙燕姿	敲诈
+N	V
+VMOD	ROOT
+2	0
+
+金瓶梅	电影
+N	N
+SEM	ROOT
+2	0
+
+男同志	小说
+N	N
+NMOD	ROOT
+2	0
+
+大学生	创业
+N	V
+VMOD	ROOT
+2	0
+
+陕西	电视报
+N	N
+NMOD	ROOT
+2	0
+
+康佳	手机
+N	N
+NMOD	ROOT
+2	0
+
+免费	黄片
+J	N
+NMOD	ROOT
+2	0
+
+甜蜜	间谍
+N	N
+NMOD	ROOT
+2	0
+
+蝎子	乐队
+N	N
+NMOD	ROOT
+2	0
+
+免费	色图
+J	N
+NMOD	ROOT
+2	0
+
+处女	开处
+N	V
+SUB	ROOT
+2	0
+
+拉拉	用品
+N	N
+NMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	文学
+N	N
+NMOD	ROOT
+2	0
+
+祼体	图片
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+限制级	写真
+J	N
+NMOD	ROOT
+2	0
+
+上鞋	机器
+V	N
+VMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+孙燕姿	敲诈
+N	V
+VMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+限制级	写真
+J	N
+NMOD	ROOT
+2	0
+
+成人	网
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+魔兽争霸	秘技
+V	N
+ROOT	SEM
+0	1
+
+快速	减肥
+A	V
+VMOD	ROOT
+2	0
+
+蝎子	乐队
+N	N
+NMOD	ROOT
+2	0
+
+分享	互联网
+V	N
+ROOT	OBJ
+0	1
+
+马	阴茎
+N	N
+NMOD	ROOT
+2	0
+
+石油	大学
+N	N
+NMOD	ROOT
+2	0
+
+熊猫	发情
+N	V
+SUB	ROOT
+2	0
+
+论文	下载
+N	V
+OBJ	ROOT
+2	0
+
+吴尊	档案
+N	N
+SEM	ROOT
+2	0
+
+李咏	简介
+N	N
+SEM	ROOT
+2	0
+
+好莱坞	潜规则
+N	N
+SEM	ROOT
+2	0
+
+熊猫	发情
+N	V
+SUB	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+男同志	论坛
+N	N
+NMOD	ROOT
+2	0
+
+高校	同志
+N	N
+NMOD	ROOT
+2	0
+
+蝎子	乐队
+N	N
+NMOD	ROOT
+2	0
+
+黑色	星期天
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+换	妻
+V	N
+ROOT	OBJ
+0	1
+
+中药	香料
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+祛除	痘印
+V	N
+ROOT	OBJ
+0	1
+
+奸杀	图片
+V	N
+VMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+自慰	经验谈
+V	N
+VMOD	ROOT
+2	0
+
+处女	开处
+N	V
+SUB	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+楚留香	系列
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+快速	减肥
+A	V
+VMOD	ROOT
+2	0
+
+明星	志愿
+N	N
+NMOD	ROOT
+2	0
+
+黄永胜	纪念馆
+N	N
+NMOD	ROOT
+2	0
+
+月宫	贴图
+N	N
+NMOD	ROOT
+2	0
+
+成人	网
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+母女	性事
+N	N
+NMOD	ROOT
+2	0
+
+万卷	书库
+N	N
+NMOD	ROOT
+2	0
+
+齐河县	地图
+N	N
+NMOD	ROOT
+2	0
+
+免费	黄片
+J	V
+NMOD	ROOT
+2	0
+
+毛泽东	诗词集
+N	N
+NMOD	ROOT
+2	0
+
+文心阁	母子
+N	N
+SEM	ROOT
+2	0
+
+成人	图片
+N	N
+NMOD	ROOT
+2	0
+
+性感	女星
+J	N
+NMOD	ROOT
+2	0
+
+透明	丁字裤
+J	N
+NMOD	ROOT
+2	0
+
+手机	屏保
+N	N
+NMOD	ROOT
+2	0
+
+手机	铃声
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+黑色	星期天
+N	N
+NMOD	ROOT
+2	0
+
+熊猫	发情
+N	V
+SUB	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+帅哥	打枪
+N	V
+SUB	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+月宫	贴图
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+熊猫	发情
+N	V
+SUB	ROOT
+2	0
+
+拉拉性	用品
+N	N
+NMOD	ROOT
+2	0
+
+低价	股
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+成人	文学
+N	N
+NMOD	ROOT
+2	0
+
+站长	论坛
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+拉拉性	用品
+N	N
+NMOD	ROOT
+2	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+播放器	下载
+N	V
+OBJ	ROOT
+2	0
+
+手机	屏保
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+嫂子	疯狂
+N	V
+SUB	ROOT
+2	0
+
+毛泽东	诗词集
+N	N
+NMOD	ROOT
+2	0
+
+万卷	书库
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影图
+N	N
+NMOD	ROOT
+2	0
+
+人体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+播放器	下载
+N	V
+OBJ	ROOT
+2	0
+
+可视	对讲
+J	N
+NMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+模拟	开车
+V	V
+VC	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+楚留香	系列
+N	N
+NMOD	ROOT
+2	0
+
+祼体	图片
+N	N
+NMOD	ROOT
+2	0
+
+召妓	实录
+V	N
+VMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+胡炳云	回忆录
+N	N
+NMOD	ROOT
+2	0
+
+人体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+换	妻
+V	N
+ROOT	OBJ
+0	1
+
+子陵	军事
+N	N
+NMOD	ROOT
+2	0
+
+生日	致词
+N	V
+NMOD	ROOT
+2	0
+
+云南	同志
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	文学
+N	N
+NMOD	ROOT
+2	0
+
+解酒	护肝
+V	V
+ROOT	VC
+0	1
+
+同志	影片
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+柔体	女孩
+N	N
+NMOD	ROOT
+2	0
+
+夏威夷	吉他
+N	N
+NMOD	ROOT
+2	0
+
+丝袜	图
+N	N
+NMOD	ROOT
+2	0
+
+云南	同志
+N	N
+NMOD	ROOT
+2	0
+
+日本	忍术
+N	N
+NMOD	ROOT
+2	0
+
+艳舞	女郎
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+孕妇	饮食
+N	N
+NMOD	ROOT
+2	0
+
+模拟	开车
+V	V
+VC	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+高校	同志
+N	N
+NMOD	ROOT
+2	0
+
+女孩	肥穴
+N	N
+NMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+鞋套机	配件
+N	N
+NMOD	ROOT
+2	0
+
+楚留香	系列
+N	N
+NMOD	ROOT
+2	0
+
+艳舞	女郎
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+帅哥	打枪
+N	V
+SUB	ROOT
+2	0
+
+环保	论文
+N	N
+SEM	ROOT
+2	0
+
+桑菲	手机
+N	N
+NMOD	ROOT
+2	0
+
+月宫	贴图
+N	N
+NMOD	ROOT
+2	0
+
+生日	致词
+N	V
+NMOD	ROOT
+2	0
+
+帅哥	打枪
+N	V
+SUB	ROOT
+2	0
+
+金岩石	博客
+N	N
+NMOD	ROOT
+2	0
+
+性器官	构造
+N	N
+NMOD	ROOT
+2	0
+
+军事	小说
+N	N
+NMOD	ROOT
+2	0
+
+世纪	文学
+N	N
+NMOD	ROOT
+2	0
+
+电话	诈骗
+N	N
+NMOD	ROOT
+2	0
+
+萨博	汽车
+N	N
+NMOD	ROOT
+2	0
+
+大	智慧
+J	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影图
+N	N
+NMOD	ROOT
+2	0
+
+个人	简历
+N	N
+NMOD	ROOT
+2	0
+
+辣妹	爽图
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+女孩	祼体图
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+公顷	公里
+M	M
+SEM	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+云南	同志
+N	N
+NMOD	ROOT
+2	0
+
+女孩	祼体图
+N	N
+NMOD	ROOT
+2	0
+
+环保	论文
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+抚州	换物网
+N	N
+NMOD	ROOT
+2	0
+
+体位	排行榜
+N	N
+NMOD	ROOT
+2	0
+
+成人	社区
+N	N
+NMOD	ROOT
+2	0
+
+汽车	价格
+N	N
+NMOD	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+电子	相册
+N	N
+NMOD	ROOT
+2	0
+
+熊猫	发情
+N	V
+SUB	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+男同志	性技巧
+N	N
+NMOD	ROOT
+2	0
+
+福瑞	医生
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+成人	小说
+N	N
+NMOD	ROOT
+2	0
+
+拉布拉多	猎犬
+N	N
+NMOD	ROOT
+2	0
+
+邱晓华	情妇
+N	N
+NMOD	ROOT
+2	0
+
+人体	艺术
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+豪乳	荡妇
+N	N
+NMOD	ROOT
+2	0
+
+汤加丽	档案
+N	N
+NMOD	ROOT
+2	0
+
+总结	报告
+N	N
+NMOD	ROOT
+2	0
+
+抚州	换物网
+N	N
+NMOD	ROOT
+2	0
+
+月宫	贴图
+N	N
+NMOD	ROOT
+2	0
+
+豪乳	荡妇
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+恋丝	文学
+N	N
+NMOD	ROOT
+2	0
+
+边荒	传说
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+环保	论文
+N	N
+SEM	ROOT
+2	0
+
+色界	论坛
+N	N
+NMOD	ROOT
+2	0
+
+在线	电影
+J	N
+NMOD	ROOT
+2	0
+
+勃起	困难
+V	N
+ROOT	OBJ
+0	1
+
+成人	论坛
+N	N
+NMOD	ROOT
+2	0
+
+女孩	祼体图
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+音乐	小品
+N	N
+NMOD	ROOT
+2	0
+
+成人	论坛
+N	N
+NMOD	ROOT
+2	0
+
+小小子	论坛
+N	N
+NMOD	ROOT
+2	0
+
+北京	同志
+N	N
+NMOD	ROOT
+2	0
+
+李咏	忧郁症
+N	N
+SEM	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+宗教	工艺品
+N	N
+NMOD	ROOT
+2	0
+
+奸杀	图片
+V	N
+VMOD	ROOT
+2	0
+
+成人	论坛
+N	N
+NMOD	ROOT
+2	0
+
+都市妖	奇谈
+N	V
+SUB	ROOT
+2	0
+
+处女	开处
+N	V
+SUB	ROOT
+2	0
+
+入党	自传
+V	N
+VMOD	ROOT
+2	0
+
+黑白	律师
+J	N
+NMOD	ROOT
+2	0
+
+上海	男妓
+N	N
+NMOD	ROOT
+2	0
+
+黄鸣	傻逼
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+月宫	贴图
+N	N
+NMOD	ROOT
+2	0
+
+周涛	豪宅
+N	N
+SEM	ROOT
+2	0
+
+李咏	简介
+N	N
+NMOD	ROOT
+2	0
+
+祼体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+人体	摄影
+N	N
+NMOD	ROOT
+2	0
+
+成人	图片
+N	N
+NMOD	ROOT
+2	0
+
+台海	局势
+N	N
+NMOD	ROOT
+2	0
+
+召妓	实录
+V	N
+VMOD	ROOT
+2	0
+
+问题	少妇
+N	N
+NMOD	ROOT
+2	0
